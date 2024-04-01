@@ -1,5 +1,5 @@
-<h2 align="left">Hey there! 👋🏼 I'm Akimarie Villaflor, but you can just call me Aki. 🎀 As an IT student, I'm all about diving into the exciting world of technology. From coding to troubleshooting, I'm here to explore and conquer the digital universe! 💻 Let's geek out together! 🚀</h2>
-
+<h1 align="center">Hey there ! 👋, I'm Akimarie Villaflor, but you can just call me Aki. 🎀</h1>
+<h3 align="center">As an IT student, I'm all about diving into the exciting world of technology. From coding to troubleshooting, I'm here to explore and conquer the digital universe! 💻 Let's geek out together! 🚀</h3>
 ###
 
 <div align="center">
